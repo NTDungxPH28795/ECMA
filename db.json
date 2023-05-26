@@ -4,8 +4,7 @@
       "id": 3,
       "nameProject": "Weather - #03",
       "content": "",
-      "developer": "Laxus",
-      "deadline": "2022-11-20",
+      "developer": "Dungx",
       "link": "undefined",
       "backupLink": "undefined"
     },
@@ -20,12 +19,12 @@
         "#JS"
       ],
       "imgs": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1676572787~exp=1676573387~hmac=9fc2dd93d0e93e9977d2ca2fa12554f5de75c24247363f9c6581e79d1bb42d9f",
-      "developer": "Laxus",
-      "info": "https://www.facebook.com/Laxus66",
+      "developer": "Dungx",
+      "info": "https://www.facebook.com/NTDungx1811",
       "deadline": "2023-04-15",
       "status": "Complete",
-      "link": "https://github.com/Laxus66",
-      "demo": "https://github.com/Laxus66"
+      "link": "https://github.com/NTDungxPH28795/ECMA",
+      "demo": "https://github.com/NTDungxPH28795/ECMA"
     },
     {
       "id": 4,
@@ -38,12 +37,12 @@
         "#JS"
       ],
       "imgs": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1676572787~exp=1676573387~hmac=9fc2dd93d0e93e9977d2ca2fa12554f5de75c24247363f9c6581e79d1bb42d9f",
-      "developer": "Laxus",
-      "info": "https://www.facebook.com/Laxus66",
+      "developer": "Dungx",
+      "info": "https://www.facebook.com/NTDungx1811",
       "deadline": "2023-04-15",
       "status": "Complete",
-      "link": "https://github.com/Laxus66",
-      "demo": "https://web-3023.vercel.app/"
+      "link": "https://github.com/NTDungxPH28795/ECMA",
+      "demo": "https://ecma-delta.vercel.app/"
     },
     {
       "id": 5,
@@ -56,11 +55,11 @@
         "#JS"
       ],
       "imgs": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1676572787~exp=1676573387~hmac=9fc2dd93d0e93e9977d2ca2fa12554f5de75c24247363f9c6581e79d1bb42d9f",
-      "developer": "Laxus",
-      "info": "https://www.facebook.com/Laxus66",
+      "developer": "Dungx",
+      "info": "https://www.facebook.com/NTDungx1811",
       "deadline": "2023-04-15",
       "status": "Complete",
-      "link": "https://github.com/Laxus66/foodwagon",
+      "link": "https://github.com/NTDungxPH28795/ECMA",
       "demo": "#"
     }
   ],
@@ -80,10 +79,10 @@
   ],
   "Infos": [
     {
-      "number": "+84-862-325-011",
-      "mail": "laxus2301@gmail.com",
-      "address": "Hai Duong City",
-      "link": "laxus66.vercel.app",
+      "number": "+84-988-328-867",
+      "mail": "tiendung18112002@gmail.com",
+      "address": "Hưng Yên City",
+      "link": "ecma-delta.vercel.app",
       "school": "Education: FPT ",
       "Occupation": "Front-End Developer",
       "Title": "Contact us for a quote,help or to join the team. ",
@@ -92,10 +91,10 @@
   ],
   "user": [
     {
-      "name": "Laxus",
+      "name": "Dungx",
       "role": "1",
-      "mail": "laxus2301@gmail.com",
-      "pass": "Vinh66@@",
+      "mail": "dungx2301@gmail.com",
+      "pass": "Dung66@@",
       "id": 3
     },
     {

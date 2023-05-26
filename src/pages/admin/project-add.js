@@ -64,13 +64,13 @@ const AdminProjectsAdd = () => {
         <div class="row mb-3">
             <div class="col-md-6 col-sm-12 mb-3 form-group">
                 <label for="exampleInputPassword1">Link </label>
-                <input type="text" class="form-control" id="linkForm" placeholder="laxus66.vercel.app/">
+                <input type="text" class="form-control" id="linkForm" placeholder="ecma-delta.vercel.app/">
                 <small id="linkHelp" class="form-text text-muted">Link this website?</small>
             </div>
             <div class="col-md-6 col-sm-12 form-group">
                 <label for="exampleInputPassword1">Backup Link</label>
                 <input type="text" class="form-control" id="backUplink"
-                    placeholder="https://github.com/Laxus66">
+                    placeholder="https://github.com/NTDungxPH28795/ECMA">
             </div>
         </div>
         <div class="mb-3 form-group">
