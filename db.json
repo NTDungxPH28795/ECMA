@@ -1,0 +1,109 @@
+{
+  "Projects": [
+    {
+      "id": 3,
+      "nameProject": "Weather - #03",
+      "content": "",
+      "developer": "Laxus",
+      "deadline": "2022-11-20",
+      "link": "undefined",
+      "backupLink": "undefined"
+    },
+    {
+      "id": 1,
+      "nameProject": "Coffee Monsters",
+      "content": "Website selling coffee, specializing in providing quality coffee, easy payment with many exclusive offers..",
+      "hashtags": [
+        "#HTML",
+        "#PHP",
+        "#CSS",
+        "#JS"
+      ],
+      "imgs": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1676572787~exp=1676573387~hmac=9fc2dd93d0e93e9977d2ca2fa12554f5de75c24247363f9c6581e79d1bb42d9f",
+      "developer": "Laxus",
+      "info": "https://www.facebook.com/Laxus66",
+      "deadline": "2023-04-15",
+      "status": "Complete",
+      "link": "https://github.com/Laxus66",
+      "demo": "https://github.com/Laxus66"
+    },
+    {
+      "id": 4,
+      "nameProject": "FIND PERFECT CAR",
+      "content": "Website selling car",
+      "hashtags": [
+        "#HTML",
+        "#PHP",
+        "#CSS",
+        "#JS"
+      ],
+      "imgs": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1676572787~exp=1676573387~hmac=9fc2dd93d0e93e9977d2ca2fa12554f5de75c24247363f9c6581e79d1bb42d9f",
+      "developer": "Laxus",
+      "info": "https://www.facebook.com/Laxus66",
+      "deadline": "2023-04-15",
+      "status": "Complete",
+      "link": "https://github.com/Laxus66",
+      "demo": "https://web-3023.vercel.app/"
+    },
+    {
+      "id": 5,
+      "nameProject": "Food Wagon",
+      "content": "Website selling food",
+      "hashtags": [
+        "#HTML",
+        "#PHP",
+        "#CSS",
+        "#JS"
+      ],
+      "imgs": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1676572787~exp=1676573387~hmac=9fc2dd93d0e93e9977d2ca2fa12554f5de75c24247363f9c6581e79d1bb42d9f",
+      "developer": "Laxus",
+      "info": "https://www.facebook.com/Laxus66",
+      "deadline": "2023-04-15",
+      "status": "Complete",
+      "link": "https://github.com/Laxus66/foodwagon",
+      "demo": "#"
+    }
+  ],
+  "Intro": [
+    {
+      "title01": "Hi I'am Dungx. Welcome to my website, scroll down to learn more or contact me.",
+      "slogan": "Have a good day",
+      "id": 1
+    }
+  ],
+  "About": [
+    {
+      "img": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1676646753~exp=1676647353~hmac=e7adab86112312c483b9aa3b0d17be4b9bb25a469f5183f701a28ba314583caa",
+      "title": "I really enjoy coding and challenge myself to learn new things every new day. My current goal is to become a Frontend developer.",
+      "id": 1
+    }
+  ],
+  "Infos": [
+    {
+      "number": "+84-862-325-011",
+      "mail": "laxus2301@gmail.com",
+      "address": "Hai Duong City",
+      "link": "laxus66.vercel.app",
+      "school": "Education: FPT ",
+      "Occupation": "Front-End Developer",
+      "Title": "Contact us for a quote,help or to join the team. ",
+      "id": 1
+    }
+  ],
+  "user": [
+    {
+      "name": "Laxus",
+      "role": "1",
+      "mail": "laxus2301@gmail.com",
+      "pass": "Vinh66@@",
+      "id": 3
+    },
+    {
+      "name": "User",
+      "role": "0",
+      "mail": "User2301@gmail.com",
+      "pass": "User66@@",
+      "id": 4
+    }
+  ]
+}
