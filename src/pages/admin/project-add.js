@@ -57,7 +57,7 @@ const AdminProjectsAdd = () => {
             </div>
             <div class="col-md-6 col-sm-12 form-group">
                 <label for="exampleInputPassword1">Developer</label>
-                <input type="text" class="form-control" id="Developer" placeholder="#laxus..">
+                <input type="text" class="form-control" id="Developer" placeholder="#dungx..">
                 <small id="developerHelp" class="form-text text-muted">Who created this website?</small>
             </div>
         </div>

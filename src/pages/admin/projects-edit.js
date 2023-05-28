@@ -66,20 +66,20 @@ const AdminProjectsEdit = ({ id }) => {
         </div>
         <div class="col-md-6 col-sm-12 form-group">
             <label for="exampleInputPassword1">Developer</label>
-            <input type="text" class="form-control" id="Developer" placeholder="#laxus.."value="${project.developer}">
+            <input type="text" class="form-control" id="Developer" placeholder="#dungx.."value="${project.developer}">
             <small id="developerHelp" class="form-text text-muted">Who created this website?</small>
         </div>
     </div>
     <div class="row mb-3">
         <div class="col-md-6 col-sm-12 mb-3 form-group">
             <label for="exampleInputPassword1">Link </label>
-            <input type="text" class="form-control" id="linkForm" placeholder="laxus66.vercel.app/" value="${project.link}">
+            <input type="text" class="form-control" id="linkForm" placeholder="ecma-delta.vercel.app" value="${project.link}">
             <small id="linkHelp" class="form-text text-muted">Link this website?</small>
         </div>
         <div class="col-md-6 col-sm-12 form-group">
             <label for="exampleInputPassword1">Backup Link</label>
             <input type="text" class="form-control" id="backUplink"
-                placeholder="https://github.com/Laxus66" value="${project.backupLink}">
+                placeholder="https://github.com/NTDungxPH28795/ECMA" value="${project.backupLink}">
         </div>
     </div>
     <div class="mb-3 form-group">

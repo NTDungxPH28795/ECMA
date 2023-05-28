@@ -4,7 +4,7 @@
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
-  --color-main: #4f3eb1;
+  --color-main: #00f094;
 }
 
 @font-face {
@@ -13,11 +13,11 @@
 }
 
 .color-main {
-  color: #4f3eb1;
+  color: #00f094;
 }
 
 .bg-color-main {
-  background-color: #4f3eb1;
+  background-color: #00f094;
 }
 
 .header {
@@ -176,7 +176,7 @@ a.introduct_btn:hover:after {
 
 .left-side .line1 {
   height: 350px;
-  background-color: #b59eee;
+  background-color: #00eeff;
   position: absolute;
   clip-path: polygon(0 0, 100% 0, 100% 50%, 50% 100%, 50% 100%, 0% 50%);
   z-index: 10;
@@ -184,7 +184,7 @@ a.introduct_btn:hover:after {
 
 .left-side .line2 {
   height: 350px;
-  background-color: #7052b2;
+  background-color: #530af0;
   position: absolute;
   clip-path: polygon(0 0, 0% 100%, 100% 50%);
   top: 150px;
@@ -193,7 +193,7 @@ a.introduct_btn:hover:after {
 
 .left-side .line3 {
   height: 330px;
-  background-color: #85e3fa;
+  background-color: #00ff95;
   position: absolute;
   clip-path: polygon(100% 0, 0% 100%, 100% 100%);
   z-index: 11;
@@ -257,7 +257,7 @@ textarea {
   border: none;
   margin: 10px;
   padding: 10px;
-  background-color: #4f3eb1;
+  background-color: #00f094;
   color: #fff;
   border-radius: 8px;
 }
@@ -266,4 +266,6 @@ textarea {
   background-color: #000;
 }
 
-/*# sourceMappingURL=styles.css.map */
+.fixed-top{
+  background-color: rgba(194, 187, 187, 0.623);
+}
